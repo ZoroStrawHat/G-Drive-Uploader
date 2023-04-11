@@ -48,7 +48,7 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/kjeymax/GDUPLOAD_BOT2
+git clone https://github.com/GIYU02x/G-Drive-Uploader
 ```
 - Change Directory
 ```sh 
